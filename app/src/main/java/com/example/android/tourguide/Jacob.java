@@ -17,7 +17,7 @@ public class Jacob extends AppCompatActivity {
         final ArrayList<PlaceArray> Jacob = new ArrayList<PlaceArray>();
         Jacob.add(new PlaceArray(getString(R.string.jacob),getString( R.string.jacp),getString( R.string.jacdisc), R.drawable.jacob));
         PlaceArrayAdapter adapter = new PlaceArrayAdapter(this, Jacob, R.color.SecondPlace);
-        ListView listView = (ListView) findViewById(R.id.list);
-        listView.setAdapter(adapter);
+        ListView lisView = (ListView) findViewById(R.id.list);
+        lisView.setAdapter(adapter);
     }
 }
