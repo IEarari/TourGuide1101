@@ -2,4 +2,18 @@
     <string name="app_name">Nablus Tour Guide</string>
     <string name="jacob">Jacop Church</string>
     <string name="ThDisl">Roman Theatre</string>
+    <string name="discreption">discreption</string>
+    <string name="Nablus">Nablus</string>
+    <string name="SR">Sebastia Ruins</string>
+    <string name="olc">Nablus Old City (Al-Khan Store)</string>
+    <string name="khan">Al-Khan</string>
+    <string name="khanad">Nablus , Old City</string>
+    <string name="khandisc">Located in the center of the old town of Nablus, the Turkish Minister Mustafa Pasha founded and founded this mosque in 971-979 AH / 1563-1569 AD 971, then rebuilt and rebuilt in 1102 AH / 1690 AD, then the Khan was demolished in 1355 AH / 1927 AD. The market recently 1987.</string>
+    <string name="srp">"Nablus , Sabastia Village"</string>
+    <string name="srdisc">Sabastia An important archaeological site located 12 km northwest of Nablus on the road leading to Jenin and the history of this village indicates that it was a small city until the days of the King (Herod), which was rebuilt and renamed Sabastia, and the name derives from the word "August", meaning Greek And the oldest settlement in Sebastia dates back to the Second Iron Age (9th century BC) and was destroyed by the Assyrians in 732 BC In 539 BC, the Persians dominated it until 338 BC, when Alexander the Great conquered Palestine. In the Roman period 67 BC - 324 AD, the city was rebuilt on the basis of a new plan, and was greatly expanded. In the Byzantine period 324/636 AD, the city had its own character in architecture. A church was built on the top of the western hill known as the Church of John the Baptist and continued until the Persian conquest in 614 AD Before the Muslims entered it shortly In Sebastia there are many archaeological sites that still exist: the western gate, the colonnade, the central square, the Roman amphitheater, the Greek tower, the August temple, the palace of King Omri, the Church of John the Baptist, the Greek Stadium and the Curie Temple.</string>
+    <string name="jacp">Nablus , Balata Al-Balad</string>
+    <string name="jacdisc">An important tourist site is a church built in the fourth century AD, then restored and added to the various buildings in the sixth century and the twelfth century and finally in 1908, and inside the church in the underground cellar an old well passed by Jesus in his story with Samaritan women. Yaqub well is located at the eastern end of Nablus city in the Balata Balad area on the main road and is open to visitors daily.</string>
+    <string name="RomanP">Nablus , Ras Al Ain</string>
+    <string name="Rmndisc">It is located at the highest point of Aqaba in the district of Keshika district of Ras Al Ain and dates back to the second half of the second century AD. It was discovered by coincidence in 1979, and it is considered the largest Roman theater discovered in Palestine, with a diameter of 100 m. It was neglected after the spread of Christianity, where previous pagan performances were unacceptable. And then turned the display platform into a pool of water.</string>
+
 </resources>

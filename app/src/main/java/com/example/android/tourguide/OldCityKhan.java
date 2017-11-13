@@ -14,7 +14,7 @@ public class OldCityKhan extends AppCompatActivity {
         setContentView(R.layout.list);
 
         final ArrayList<PlaceArray> Khan = new ArrayList<PlaceArray>();
-        Khan.add(new PlaceArray("Al-Khan", "Nablus , Old City", "Located in the center of the old town of Nablus, the Turkish Minister Mustafa Pasha founded and founded this mosque in 971-979 AH / 1563-1569 AD 971, then rebuilt and rebuilt in 1102 AH / 1690 AD, then the Khan was demolished in 1355 AH / 1927 AD. The market recently 1987.", R.drawable.khan));
+        Khan.add(new PlaceArray(getString(R.string.khan),getString( R.string.khanad),getString( R.string.khandisc), R.drawable.khan));
         PlaceArrayAdapter adapter = new PlaceArrayAdapter(this, Khan, R.color.ThirdPlace);
         ListView listView = (ListView) findViewById(R.id.list);
         listView.setAdapter(adapter);

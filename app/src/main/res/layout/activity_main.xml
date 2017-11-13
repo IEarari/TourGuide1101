@@ -15,7 +15,7 @@
             style="@style/CategoryStyle"
             android:layout_height="87dp"
             android:background="@color/FirstPlace"
-            android:text="Roman Threat"
+            android:text="@string/ThDisl"
             android:textColor="@color/Text" />
 
         <TextView
@@ -27,7 +27,7 @@
             style="@style/CategoryStyle"
             android:layout_height="82dp"
             android:background="@color/SecondPlace"
-            android:text="Jacop church"
+            android:text="@string/jacob"
             android:textColor="@color/Text" />
 
         <TextView
@@ -39,7 +39,7 @@
             style="@style/CategoryStyle"
             android:layout_height="82dp"
             android:background="@color/ThirdPlace"
-            android:text="Sebastia Ruins"
+            android:text="@string/SR"
             android:textColor="@color/Text" />
 
         <TextView
@@ -51,7 +51,7 @@
             style="@style/CategoryStyle"
             android:layout_height="82dp"
             android:background="@color/FourthPlace"
-            android:text="Nablus Old City (Al-Khan Store)"
+            android:text="@string/olc"
             android:textColor="@color/Text" />
 
         <ImageView
